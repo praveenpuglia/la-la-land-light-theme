@@ -1,2 +1,8 @@
-# la-la-land-light-theme
-A La La Land inspired light color scheme for terminals
+# La La Land - Light Theme
+
+A La La Land inspired light color scheme for terminals.
+
+## Supported Terminals
+
+- [iTerm](./iterm/)
+  ![iTerm Screenshot](./iterm/screenshot.png)
